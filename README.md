@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Luísa
 
-- 🔭 I’m currently working on my portfolio
+- 🔭 I’m currently working on my career transition from architect to web developer
 - 🌱 I’m currently learning Javascript and React 
 - 📫 Get in touch: luisanovaes.arq@gmail.com
 - 😄 Pronouns: she/her
