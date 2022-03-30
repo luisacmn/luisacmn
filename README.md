@@ -1,13 +1,14 @@
 ### Hello there 👋 I'm Luísa
 
-- 🔭 I’m currently working on my portfolio as a frontend web developer
-- 🌱 I’m currently learning Javascript and React 
+- 📚 I’m currently studying Javascript and React 
+- 👩‍🎓 Computer Science student and Architect
 - 📫 Get in touch: luisanovaes.arq@gmail.com
 - 😄 Pronouns: she/her
 
 <div align="center">
   <a href="https://github.com/luisacmn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisacmn&layout=compact&langs_count=7&theme=dracula"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=luisacmn&show_icons=true&theme=gothan" />
+   <img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisacmn&layout=compact&theme=gothan" />
 </div>
   
 <div style="display: inline_block"><br>
