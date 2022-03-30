@@ -5,10 +5,10 @@
 - 📫 Get in touch: luisanovaes.arq@gmail.com
 - 😄 Pronouns: she/her
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/luisacmn">
-   <img src="https://github-readme-stats.vercel.app/api?username=luisacmn&show_icons=true&theme=gothan" />
-   <img  height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisacmn&layout=compact&theme=gothan" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luisacmn&show_icons=true&theme=gothan" />
+   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisacmn&layout=compact&theme=gothan" />
 </div>
   
 <div style="display: inline_block"><br>
