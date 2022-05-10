@@ -1,9 +1,8 @@
 ### Hello there 👋 I'm Luísa
 
-- 📚 I’m currently studying Javascript and React 
+- 📚 I’m a Front End Developer. JavaScript and React JS 
 - 👩‍🎓 Computer Science student and Architect
 - 📫 Get in touch: luisanovaes.arq@gmail.com
-- 😄 Pronouns: she/her
 
 <div align="left">
   <a href="https://github.com/luisacmn">
