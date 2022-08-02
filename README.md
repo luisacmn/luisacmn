@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Luísa
 
-- 📚 I’m a Junior Front End Developer.  
+- 📚 I’m a Front-End Developer.  
 - 👩‍🎓 Computer Science student and Architect
 - 📫 Get in touch: luisanovaes.arq@gmail.com
 
